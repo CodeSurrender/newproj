@@ -13,6 +13,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         //Like button
+        
+        
+        
+        //added background color
+        self.view.backgroundColor = .blue
     }
 
 
